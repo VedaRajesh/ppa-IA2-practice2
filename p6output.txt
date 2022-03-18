@@ -1,1 +1,6 @@
-
+GNU bash, version 4.4.20(1)-release (x86_64-pc-linux-gnu)
+gcc -g p6original.c
+ ./a.out
+enter a string
+hello
+the reverse is olleh

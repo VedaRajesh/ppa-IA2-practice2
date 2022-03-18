@@ -1,1 +1,7 @@
-
+ gcc -g p5original.c
+ ./a.out
+enter two numbers
+12
+enter two numbers
+16
+gcd of 12 and 16 is 4
